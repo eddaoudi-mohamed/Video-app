@@ -52,7 +52,7 @@ A YouTube clone built with React, Vite, Redux Toolkit, React Router DOM, RapidAP
 
 2. Change into the project directory:
   ```bash
-   cd youtube-clone 
+   cd Video-app
 
 3. Install dependencies: 
   ```bash
