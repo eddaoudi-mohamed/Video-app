@@ -20,11 +20,11 @@ A YouTube clone built with React, Vite, Redux Toolkit, React Router DOM, RapidAP
 ## Images Of App
 
 ### Home Page 
-![Video](https://i.ibb.co/2q1y61Y/HomePage.png)
+![Home Page](https://i.ibb.co/2q1y61Y/HomePage.png)
 ### Video Detail
-![Video](https://ibb.co/ZYstPz1/videoDetail.png) 
+![Video Detail](https://i.ibb.co/ZYstPz1/video-Detail.png) 
 ### channel Detail
-![Video](https://ibb.co/2YxX1rh/channelDetail.png) 
+![Channel Detail](https://i.ibb.co/2YxX1rh/channel-Detail.png) 
 
 
 
