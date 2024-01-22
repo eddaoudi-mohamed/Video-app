@@ -40,8 +40,8 @@ A YouTube clone built with React, Vite, Redux Toolkit, React Router DOM, RapidAP
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) installed (optional but recommended)
-- [Yarn](https://yarnpkg.com/) installed 
+- [Node.js](https://nodejs.org/) installed 
+- [Yarn](https://yarnpkg.com/) installed (optional)
 
 ### Installation
 
